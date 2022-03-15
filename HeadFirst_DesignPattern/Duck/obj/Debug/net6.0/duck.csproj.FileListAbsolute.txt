@@ -1,0 +1,15 @@
+D:\github\xuzhg\DayDayUp\HeadFirst_DesignPattern\Duck\obj\Debug\net6.0\duck.csproj.AssemblyReference.cache
+D:\github\xuzhg\DayDayUp\HeadFirst_DesignPattern\Duck\obj\Debug\net6.0\duck.GeneratedMSBuildEditorConfig.editorconfig
+D:\github\xuzhg\DayDayUp\HeadFirst_DesignPattern\Duck\obj\Debug\net6.0\duck.AssemblyInfoInputs.cache
+D:\github\xuzhg\DayDayUp\HeadFirst_DesignPattern\Duck\obj\Debug\net6.0\duck.AssemblyInfo.cs
+D:\github\xuzhg\DayDayUp\HeadFirst_DesignPattern\Duck\obj\Debug\net6.0\duck.csproj.CoreCompileInputs.cache
+D:\github\xuzhg\DayDayUp\HeadFirst_DesignPattern\Duck\bin\Debug\net6.0\duck.exe
+D:\github\xuzhg\DayDayUp\HeadFirst_DesignPattern\Duck\bin\Debug\net6.0\duck.deps.json
+D:\github\xuzhg\DayDayUp\HeadFirst_DesignPattern\Duck\bin\Debug\net6.0\duck.runtimeconfig.json
+D:\github\xuzhg\DayDayUp\HeadFirst_DesignPattern\Duck\bin\Debug\net6.0\duck.dll
+D:\github\xuzhg\DayDayUp\HeadFirst_DesignPattern\Duck\bin\Debug\net6.0\duck.pdb
+D:\github\xuzhg\DayDayUp\HeadFirst_DesignPattern\Duck\obj\Debug\net6.0\duck.dll
+D:\github\xuzhg\DayDayUp\HeadFirst_DesignPattern\Duck\obj\Debug\net6.0\refint\duck.dll
+D:\github\xuzhg\DayDayUp\HeadFirst_DesignPattern\Duck\obj\Debug\net6.0\duck.pdb
+D:\github\xuzhg\DayDayUp\HeadFirst_DesignPattern\Duck\obj\Debug\net6.0\duck.genruntimeconfig.cache
+D:\github\xuzhg\DayDayUp\HeadFirst_DesignPattern\Duck\obj\Debug\net6.0\ref\duck.dll
