@@ -98,7 +98,7 @@ public class Solution {
             Console.WriteLine("Test 1 is " + (IsValidBST(node) ? " valid tree" : " invalid tree"));
         }
 
-         {
+        {
             TreeNode node = new TreeNode(5, 
                 new TreeNode(1),
                 new TreeNode(4, new TreeNode(3), new TreeNode(6)));

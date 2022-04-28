@@ -69,5 +69,13 @@ public class Solution {
             
             Console.WriteLine("Test 2 is " + (IsValidBST(node) ? " valid tree" : " invalid tree"));
         }
+
+        {
+            TreeNode node = new TreeNode(2, 
+                new TreeNode(2),
+                new TreeNode(2));
+            
+            Console.WriteLine("Test 1 is " + (IsValidBST(node) ? " valid tree" : " invalid tree"));
+        }
     }
 }
