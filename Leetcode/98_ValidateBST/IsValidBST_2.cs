@@ -36,7 +36,7 @@ public class Solution {
 
         if (pre != null)
         {
-            if (node.val < pre.val) {
+            if (node.val <= pre.val) {
                 return false;
             }
         }
@@ -75,7 +75,7 @@ public class Solution {
                 new TreeNode(2),
                 new TreeNode(2));
             
-            Console.WriteLine("Test 1 is " + (IsValidBST(node) ? " valid tree" : " invalid tree"));
+            Console.WriteLine("Test 3 is " + (IsValidBST(node) ? " valid tree" : " invalid tree"));
         }
     }
 }

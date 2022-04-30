@@ -37,7 +37,7 @@ public class Link : IComparable<Link>
 
 public class Solution5
 {
-
+    // 本版本： IsLoop效率不高，对于大数据，就抛出 Time Limit Exceeded
     public static int MinCostConnectPoints(int[][] points)
     {
 

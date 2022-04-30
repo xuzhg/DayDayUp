@@ -16,7 +16,7 @@ public class GNode{
 public class Solution {
 
     // Dijstra Algorith is not correct here for this question. 
-    // So the following imeplmentation is not finished.
+    // So the following imeplmentation is not finished and not correct.
     public static int MinCostConnectPoints(int[][] points) {
         int pointCount = points.Length;
         if (pointCount == 0) return 0;

@@ -57,7 +57,7 @@ public class Solution {
            new char[]{'1','0','0','1','0'},
         };
 
-        Console.WriteLine($"{MaximalRectangle(matrix)}");
+        Console.WriteLine($"{MaximalRectangle(matrix)}"); // output 6
 
         char[][] matrix2 = new char[][]
         {
@@ -68,7 +68,7 @@ public class Solution {
             new char[] {'0','1','1','1','1','0','0','0' }
         };
 
-        Console.WriteLine($"{MaximalRectangle(matrix2)}");
+        Console.WriteLine($"{MaximalRectangle(matrix2)}"); // output 21
 
         char[][] matrix3 = new char[][]
         {
@@ -80,6 +80,6 @@ public class Solution {
             new char[] {'0','1','1','1','1','0','0','0' }
         };
 
-        Console.WriteLine($"{MaximalRectangle(matrix3)}");
+        Console.WriteLine($"{MaximalRectangle(matrix3)}"); // output 25
     }
 }
