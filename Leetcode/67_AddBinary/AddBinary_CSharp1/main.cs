@@ -28,7 +28,7 @@ public class Program
         int j = blen - 1;
         char[] d = new char[max + 1]; // 1 is for the potential carry
         int carry = 0;
-        int k = max;
+        int k = max; // why k == max?? because we add 1 to create the 'd' array.
         while(i >= 0 || j >= 0)
         {
             int ca = 0;
